@@ -33,11 +33,11 @@ Projeto desenvolvido no curso **Aprenda Flutter e Desenvolva Apps Para Android e
 
 ### Mobile
 <p align="center">
-  <img title="#Cardapio" src="git\cardapio01.gif" width="200px">
+  <img title="#Cardapio" src="git\car01.gif" width="200px">
 </p><p align="center">
-  <img title="#Cardapio" src="git\cardapio02.gif" width="200px">
+  <img title="#Cardapio" src="git\car02.gif" width="200px">
 </p><p align="center">
-  <img title="#Cardapio" src="git\cardapio03.gif" width="200px">
+  <img title="#Cardapio" src="git\car03.gif" width="200px">
 </p>
 
 
