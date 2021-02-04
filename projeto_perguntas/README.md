@@ -1,16 +1,49 @@
-# projeto_perguntas
+<h2 align="center"> 
+	🚧  Aplicativo de Perguntas - Concluído 🚀 🚧
+</h2>
 
-A new Flutter project.
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+</p>
 
-## Getting Started
+## 💻 Sobre o projeto
 
-This project is a starting point for a Flutter application.
+Aplicativo de Perguntas - É um aplicativo simples onde o usuario responde um questionario, já determinado. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Projeto desenvolvido no curso **Aprenda Flutter e Desenvolva Apps Para Android e IOS 2021** oferecida pela [Cod3r](https://www.udemy.com/course/curso-flutter/).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚙️ Funcionalidades
+
+- Selecionar respostas para as perguntas descritas.
+- Reiniciar Formulario ao concluir
+
+---
+## 🎨 Layout
+
+### Mobile
+
+<p align="center">
+  <img title="#NextLevelWeek" src="git\Questionario.gif" width="200px">
+</p>
+
+---
+
+## 🚀 Como executar o projeto
+
+Ao clonar o projeto, rode o comando flutter pub get no terminal onde esta o projeto para instalar as dependências.
+
+---
+
+## 🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+
+-  **[Flutter](https://flutter.dev)**
+-  **[Dart](https://dart.dev)**
+
