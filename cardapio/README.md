@@ -1,16 +1,59 @@
-# cardapio
+<h2 align="center"> 
+	🚧  Cardápio Receitas - Concluído 🚀 🚧
+</h2>
 
-A new Flutter project.
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+</p>
 
-## Getting Started
+## 💻 Sobre o projeto
 
-This project is a starting point for a Flutter application.
+Aplicativo de Receitas - É um aplicativo simples onde o usuário pode acompanhar receitas e seguir instruções para realiza-las.
 
-A few resources to get you started if this is your first Flutter project:
+Na construção desse aplicativo foi trabalhado com rotas nomeadas.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projeto desenvolvido no curso **Aprenda Flutter e Desenvolva Apps Para Android e IOS 2021** oferecida pela [Cod3r](https://www.udemy.com/course/curso-flutter/).
+
+---
+## ⚙️ Funcionalidades
+
+- [x] Os usuários tem acesso (Offline) ao aplicativo móvel, onde podem:
+
+- Selecionar uma comida do cardápio para saber detalhes da mesma.
+- Favoritar seus pratos favoritos.
+- Filtrar comidas, podendo escolher somente as sem Gluten, sem Lactose, Vegana e Vegetariana.
+
+---
+## 🎨 Layout
+
+### Mobile
+<p align="center">
+  <img title="#Cardapio" src="git\cardapio01.gif" width="200px">
+</p><p align="center">
+  <img title="#Cardapio" src="git\cardapio02.gif" width="200px">
+</p><p align="center">
+  <img title="#Cardapio" src="git\cardapio03.gif" width="200px">
+</p>
+
+
+
+
+---
+
+## 🚀 Como executar o projeto
+
+Ao clonar o projeto, rode o comando flutter pub get no terminal onde esta o projeto para instalar as dependências.
+
+---
+
+## 🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+
+-  **[Flutter](https://flutter.dev)**
+-  **[Dart](https://dart.dev)**
+
