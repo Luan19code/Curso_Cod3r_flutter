@@ -1,16 +1,56 @@
-# depesas_pessoais
+<h2 align="center"> 
+	🚧  Aplicativo de Despesas pessoais - Concluído 🚀 🚧
+</h2>
 
-A new Flutter project.
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+</p>
 
-## Getting Started
+## 💻 Sobre o projeto
 
-This project is a starting point for a Flutter application.
+Aplicativo de Perguntas - É um aplicativo simples onde o usuario pode colocar anotar suas despesas pessoas do dia dia, para ter um controle financeiro.
 
-A few resources to get you started if this is your first Flutter project:
+Na construção do layout foi utilizadas Responsividade e adaptabilidade.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projeto desenvolvido no curso **Aprenda Flutter e Desenvolva Apps Para Android e IOS 2021** oferecida pela [Cod3r](https://www.udemy.com/course/curso-flutter/).
+
+---
+## ⚙️ Funcionalidades
+
+- [x] Os usuários tem acesso (Offline) ao aplicativo móvel, onde podem:
+
+- Adicionar despesas correspondente ao dia do consumo.
+- Excluir despesas que desejar
+
+---
+## 🎨 Layout
+
+### Mobile
+
+<p align="center">
+  <img title="#DespesasPessoaisVertical" src="git\Despesas01.gif" width="200px">
+</p>
+
+<p align="center">
+  <img title="#DespesasPessoaisHorizontal" src="git\Despesas02.gif" width="400px", height="200px">
+</p>
+
+---
+
+## 🚀 Como executar o projeto
+
+Ao clonar o projeto, rode o comando flutter pub get no terminal onde esta o projeto para instalar as dependências.
+
+---
+
+## 🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+
+-  **[Flutter](https://flutter.dev)**
+-  **[Dart](https://dart.dev)**
+
