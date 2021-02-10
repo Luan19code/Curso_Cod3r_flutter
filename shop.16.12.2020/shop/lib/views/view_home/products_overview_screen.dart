@@ -132,28 +132,3 @@ class _ProductsOverviewScreenState extends State<ProductsOverviewScreen> {
   }
 }
 
-// Column(
-//                     mainAxisAlignment: MainAxisAlignment.center,
-//                     children: [
-//                       Padding(
-//                         padding: const EdgeInsets.all(8.0),
-//                         child: Text(
-//                           "Sem Conexão",
-//                           style: TextStyle(fontSize: 20),
-//                         ),
-//                       ),
-//                       SizedBox(
-//                         height: 50,
-//                         child: FlatButton(
-//                             color: Colors.grey,
-//                             onPressed: () {
-//                               setState(() {
-//                                 _isLoading = true;
-//                                 _refreshProducts(context);
-//                               });
-//                             },
-//                             child: Text("Tentar Novamente!",
-//                                 style: TextStyle(fontSize: 20))),
-//                       )
-//                     ],
-//                   )

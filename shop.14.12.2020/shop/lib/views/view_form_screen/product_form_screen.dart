@@ -143,7 +143,7 @@ class _ProductFormScreenState extends State<ProductFormScreen> {
               //
               //
               TextFormField(
-                initialValue: _formData["price"].toString(),
+                initialValue: _formData["price"] == "null" ? _formData["price"].toString() : "",
                 decoration: InputDecoration(
                   labelText: "Preço",
                 ),
