@@ -39,8 +39,8 @@ Projeto desenvolvido no curso **Aprenda Flutter e Desenvolva Apps Para Android e
 ### Mobile
 <table>
   <tr>
-    <td>Descrição, adicionar ao carrinho e favoritar.</td>
-     <td>Adicionar ao carrinho, aumentar quantidade de produtos comprados.</td>
+    <td>Descrição, adicionar ao <br/> carrinho e favoritar.</td>
+     <td>Adicionar ao carrinho, aumentar <br/> quantidade de produtos <br/>  comprados.</td>
   </tr>
   <tr>
     <td><img src="git\shop.gif" width=200 height=400></td>
@@ -50,8 +50,8 @@ Projeto desenvolvido no curso **Aprenda Flutter e Desenvolva Apps Para Android e
 
  <table>
   <tr>
-    <td>Finalizando compras e histórico de compras.</td>
-     <td>Editar, excluir e adicionar Produtos.</td>
+    <td>Finalizando compras e <br/> histórico de compras.</td>
+     <td>Editar, excluir e <br/> adicionar Produtos.</td>
   </tr>
   <tr>
     <td><img src="git\shop3.gif" width=200 height=400></td>
