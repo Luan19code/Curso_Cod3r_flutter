@@ -37,41 +37,38 @@ Projeto desenvolvido no curso **Aprenda Flutter e Desenvolva Apps Para Android e
 ## 🎨 Layout
 
 ### Mobile
+<!-- <table>
+  <tr>
+    <td>Descrição, adicionar ao carrinho e favoritar.</td>
+     <td>Adicionar ao carrinho, aumentar quantidade de produtos comprados.</td>
+  </tr>
+  <tr>
+    <td><img src="git\shop.gif" width=200 height=400></td>
+    <td><img src="git\shop2.gif" width=200 height=400></td>
+  </tr>
+ </table>
 
-<!-- <div class="box">
- <span> Descrição, adicionar ao carrinho e favoritar. </span>
-  <img title="#Shop" src="git\shop.gif" width="200px">
-</div>
+ <table>
+  <tr>
+    <td>Finalizando compras e histórico de compras.</td>
+     <td>Editar, excluir e adicionar Produtos.</td>
+  </tr>
+  <tr>
+    <td><img src="git\shop3.gif" width=200 height=400></td>
+    <td><img src="git\shop4.gif" width=200 height=400></td>
+  </tr>
+ </table>
 
-<div class="box">
- <span> Adicionar ao carrinho, aumentar quantidade de produtos comprados. </span>
-  <img title="#Shop" src="git\shop2.gif" width="200px">
-</div>
-
-
-<div></div>
-
-<div class="box">
- <span> Finalizando compras e histórico de compras </span>
-  <img title="#Shop" src="git\shop3.gif" width="200px">
-</div>
-
-<div class="box">
- <span> editar, excluir e adicionar Produtos </span>
-  <img title="#Shop" src="git\shop4.gif" width="200px">
-</div>
-
-
-
-<style>
-div.box {
-
-	width: 200px;
-	display: inline-block;
-    margin-left: 15px;
-    margin-bottom: 15px;
-}
-</style> -->
+ <table>
+  <tr>
+    <td>Carregando dados.</td>
+     <td>Aviso de conexão offline.</td>
+  </tr>
+  <tr>
+    <td><img src="git\shop5.gif" width=200 height=400></td>
+    <td><img src="git\shop6.png" width=200 height=400></td>
+  </tr>
+ </table> -->
 ---
 
 ## 🚀 Como executar o projeto
