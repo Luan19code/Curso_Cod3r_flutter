@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align="center"> 
-	 Projetos construidos durante a realização do curso da Corder
+	 Projetos construídos durante a realização do curso da Corder
 </h4>
 
 ## 💻 Sobre o Curso

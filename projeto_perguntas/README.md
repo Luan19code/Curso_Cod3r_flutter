@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o projeto
 
-Aplicativo de Perguntas - É um aplicativo simples onde o usuario responde um questionario, já determinado. 
+Aplicativo de Perguntas - É um aplicativo simples onde o usuário responde um questionário, já determinado. 
 
 
 Projeto desenvolvido no curso **Aprenda Flutter e Desenvolva Apps Para Android e IOS 2021** oferecida pela [Cod3r](https://www.udemy.com/course/curso-flutter/).
@@ -22,7 +22,7 @@ Projeto desenvolvido no curso **Aprenda Flutter e Desenvolva Apps Para Android e
 ## ⚙️ Funcionalidades
 
 - Selecionar respostas para as perguntas descritas.
-- Reiniciar Formulario ao concluir
+- Reiniciar Formulário ao concluir
 
 ---
 ## 🎨 Layout
@@ -30,7 +30,7 @@ Projeto desenvolvido no curso **Aprenda Flutter e Desenvolva Apps Para Android e
 ### Mobile
 
 <p align="center">
-  <img title="#Questionario" src="git\Questionario.gif" width="200px">
+  <img title="#Questionário" src="git\Questionario.gif" width="200px">
 </p>
 
 ---

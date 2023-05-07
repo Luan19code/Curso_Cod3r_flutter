@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o projeto
 
-Aplicativo de Perguntas - É um aplicativo simples onde o usuario pode colocar anotar suas despesas pessoas do dia dia, para ter um controle financeiro.
+Aplicativo de Perguntas - É um aplicativo simples onde o usuário pode colocar anotar suas despesas pessoas do dia dia, para ter um controle financeiro.
 
 Na construção do layout foi utilizadas Responsividade e adaptabilidade.
 
